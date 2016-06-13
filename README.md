@@ -1,5 +1,6 @@
 # twitter-mining-sentiment
 Experimento na área de análise de sentimento, usando Twitter como corpus.
+Costa D. M., Brito A., Mandoju J.
 
 # Para executar aplicação em modo de avaliação:
 1. Alterar arquivo APP.cfg do direitório config, mudando valor para TRUE.
